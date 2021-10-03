@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-hooks",
+  "version": "1.0.0",
+  "description": "NodeJS application with Husky and CommitLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sauron-Fucho/nodejs-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sauron-Fucho/nodejs-hooks/issues"
+  },
+  "homepage": "https://github.com/Sauron-Fucho/nodejs-hooks#readme"
+}
